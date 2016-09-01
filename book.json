@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    "json"
+  ],
+  "pluginsConfig": {
+    "json": {
+      "output": "_book/content.json"
+    },
+    "discourse": {
+       "url": "https://talk.vtaiwan.tw/",
+       "api_key": "",
+       "api_username": "vtaiwan",
+       "parent_category_id": 0,
+       "parent_category_name": "金融監理沙盒"
+    }
+  }
+}
